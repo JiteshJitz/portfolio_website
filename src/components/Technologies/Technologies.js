@@ -6,45 +6,50 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with various technologies in the Web Development, AI/ML, IOT and iOS Development.
     </SectionText>
     <List>
+
+    <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Languages</ListTitle>
+          <ListParagraph>
+           
+            Java, Python, JavaScript, <br />
+            C++, Swift, C#.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
       <ListItem>
         <picture>
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Frameworks</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            
+            React.js, Node js, Express js <br />
+            Next js, TailwindCSS.
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <picture>
-          <DiFirebase size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Back-End</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            Node and Databases
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+     
       <ListItem>
         <picture>
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Other Technologies</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            SQL and NoSQL Databases, Tensorflow, Keras, Scikit-learn, 
+            Docker, AWS, Unity3D,
+            Agile Methodologies.
           </ListParagraph>
         </ListContainer>
       </ListItem>
