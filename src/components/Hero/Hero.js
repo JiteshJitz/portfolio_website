@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from "next/Image";
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
