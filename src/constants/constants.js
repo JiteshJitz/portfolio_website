@@ -68,4 +68,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Worked on few ML/AI related projects', },
   { year: 2020, text: 'Graduated from my Bachelors, received offer from University of Waterloo for Masters of Engineering Program', },
   { year: 2021, text: 'Started my Masters in Computer Engineering with core focus on Software/AI field', },
+  { year: 2022, text: 'Completed my masters from University of Waterloo and actively looking for a position in Software/Data Science', },
 ];

@@ -14,7 +14,7 @@ const Hero = (props) => (
           I am Jitesh
         </SectionTitle>
         <SectionText>
-        Graduate student passionate about Software Engineering and AI domain. With more than four and half years of experience working with ML, software, and IOT related personal projects.
+        Graduate Software Engineer passionate about Software Engineering and AI domain. With more than four and half years of experience working with ML, software, and IOT related personal projects.
         </SectionText>
         <a  href="https://drive.google.com/file/d/1UVC6DVgstI7ZvHp23mk3I_onbFLPXBcI/view?usp=sharing" target="_blank"><Button  >My Resume</Button></a>
       </LeftSection>
