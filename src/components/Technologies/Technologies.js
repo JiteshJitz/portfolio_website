@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with various technologies in the Web Development, AI/ML, IOT and iOS Development.
-    </SectionText>
+    Experienced in diverse web technologies, encompassing MERN, Spring Boot, Next.js, Docker, AWS EC2/S3, and CI/CD workflows.    </SectionText>
     <List>
 
     <ListItem>
@@ -20,8 +19,8 @@ const Technologies = () =>  (
           <ListTitle>Languages</ListTitle>
           <ListParagraph>
            
-            Java, Python, JavaScript, <br />
-            C++, Swift, C#.
+            Java, JavaScript, Kotlin<br />
+            C++, Swift, C#, Python.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -34,7 +33,7 @@ const Technologies = () =>  (
           <ListTitle>Frameworks</ListTitle>
           <ListParagraph>
             
-            React.js, Node js, Express js <br />
+            React.js, SpringBoot, Node js, Express js <br />
             Next js, TailwindCSS.
           </ListParagraph>
         </ListContainer>
@@ -47,9 +46,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Other Technologies</ListTitle>
           <ListParagraph>
-            SQL and NoSQL Databases, Tensorflow, Keras, Scikit-learn, 
-            Docker, AWS, Unity3D,
-            Agile Methodologies.
+            MongoDB, Firebase, MySQL,
+            Docker, AWS EC2 and S3, CI/CD,
+            Agile Methodologies, Cypress test and JUnit.
           </ListParagraph>
         </ListContainer>
       </ListItem>

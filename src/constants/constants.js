@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Djinoworld',
+    description: "Architected a digital nomad platform using Spring Boot, React.js, MongoDB, and integrated APIs. Enhanced performance and security with AWS EC2, Docker, web sockets, and robust testing via JEST and JUnit",
+      image: '/images/djino.jpg',
+      tags: ['Spring Boot', 'Docker', 'React.js', 'Docker', "AWS"],
+    source: 'https://github.com/JiteshJitz/DjinoWorld-server',
+    visit: 'https://djinoworld.com/',
+    id: 0,
+  },
+  {
     title: 'Rate My Property',
     description: "Worked as a Front-End developer to build responsive and user-friendly interface for the web application using Next js, React js and Tailwind CSS. Rate my property is a website to give and view anonymous reviews on rental properties. Useful for future tenants in Canada.",
       image: '/images/1.png',
       tags: ['Next', 'Docker', 'Express', 'TailwindCSS', "AWS"],
     source: 'https://github.com/JiteshJitz/ratemyproperty-client',
-    visit: 'https://github.com/JiteshJitz/ratemyhousing-server',
-    id: 0,
+    visit: 'https://github.com/JiteshJitz/ratemyproperty-client',
+    id: 1,
   },
   {
     title: 'Child Monitoring System',
@@ -14,16 +23,7 @@ export const projects = [
     image: '/images/2.jpg',
     tags: ['Firebase', 'JavaScript', 'Python'],
     source: 'https://github.com/JiteshJitz/Baby-Monitor---Monitor-Your-Kid-Online-Firebase-',
-    visit: 'https://drive.google.com/file/d/1uBDvRdBT_XdM_OdDoTpm3TrJxwBdt6NA/view?usp=sharing',
-    id: 1,
-  },
-  {
-    title: 'Generating Adversarial Examples using Feature Imposition',
-    description: "Imposed features of data from one class onto data from another class and try to confuse the classifier from classifying to true class.",
-      image: '/images/3.png',
-      tags: ['Keras', 'Tensorflow', 'Sci-kit Learn'],
-    source: 'https://github.com/shrsulav/adversarial_attack_autoencoders',
-    visit: 'https://drive.google.com/file/d/1og9NjxYRBEurFBKcr5UCJQ4FdCryrq1U/view?usp=sharing',
+    visit: 'https://github.com/JiteshJitz/Baby-Monitor---Monitor-Your-Kid-Online-Firebase-',
     id: 2,
   },
   {
@@ -45,15 +45,14 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Classification of modified Fashion MNIST dataset',
-    description: "Used encodings from the intermediate layer of my CNN model. And using dimensionality reduction by PCA and classified using K-means and DBSCAN clustering algorithms and compared it to results if TSNE to get the accurate unknown labels of the dataset. ",
-      image: '/images/6.png',
-      tags: ['CNN', 'KMeans','PCA'],
-    source: 'https://github.com/JiteshJitz/MysteryFashionMnsit',
-    visit: 'https://github.com/JiteshJitz/MysteryFashionMnsit',
+    title: 'Generating Adversarial Examples using Feature Imposition',
+    description: "Imposed features of data from one class onto data from another class and try to confuse the classifier from classifying to true class.",
+      image: '/images/3.png',
+      tags: ['Keras', 'Tensorflow', 'Sci-kit Learn'],
+    source: 'https://github.com/shrsulav/adversarial_attack_autoencoders',
+    visit: 'https://drive.google.com/file/d/1og9NjxYRBEurFBKcr5UCJQ4FdCryrq1U/view?usp=sharing',
     id: 5,
   },
-
 ];
 
 export const portfolioImage = [
@@ -65,8 +64,8 @@ export const portfolioImage = [
 export const TimeLineData = [
   { year: 2016, text: 'BTech(HONS) in Computer Science from Lovely Professional University, India', },
   { year: 2018, text: 'Started working on various Web, iOS and IOT related projects', },
-  { year: 2019, text: 'Worked on few ML/AI related projects', },
+  { year: 2019, text: 'Worked on Software and ML related projects with few certifications', },
   { year: 2020, text: 'Graduated from my Bachelors, received offer from University of Waterloo for Masters of Engineering Program', },
-  { year: 2021, text: 'Started my Masters in Computer Engineering with core focus on Software/AI field', },
-  { year: 2022, text: 'Completed my masters from University of Waterloo and actively looking for a position in Software/Data Science', },
-];
+  { year: 2021, text: 'Started my Masters in Computer Engineering with core focus on Software Development, worked on team projects including Rate My Property', }, 
+  { year: 2022, text: 'Completed my masters from University of Waterloo and Started to work for security start-up Cynorix as Software Developer', },
+  { year: 2023, text: 'Honed enterprise software skills at Cynorix and started the DjinoWorld project. Actively seeking a role to amplify and apply my professional and project-based expertise', },];
