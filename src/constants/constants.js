@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/djino.jpg',
       tags: ['Spring Boot', 'Docker', 'React.js', 'Docker', "AWS"],
     source: 'https://github.com/JiteshJitz/DjinoWorld-server',
-    visit: 'https://djinoworld.com/',
+    visit: 'https://github.com/JiteshJitz/DjinoWorld-server',
     id: 0,
   },
   {
