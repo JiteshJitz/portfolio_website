@@ -16,7 +16,7 @@ const Hero = (props) => (
         <SectionText>
         Full-Stack Developer with expertise in MERN, Spring Boot, and mobile applications. Committed to delivering secure, innovative and scalable software solutions.
         </SectionText>
-        <a  href="https://drive.google.com/file/d/1b7iw0GBgd1EuTVdMR3WStqUm-rZpq4Qh/view?usp=sharing" target="_blank"><Button  >My Resume</Button></a>
+        <a  href="https://drive.google.com/file/d/1IzqlLyUF2SIZkXvmgsUPD2bEwpzIGQKu/view?usp=sharing" target="_blank"><Button  >My Resume</Button></a>
       </LeftSection>
     </Section>
   </>
